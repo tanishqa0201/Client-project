@@ -1,2 +1,2 @@
 # Client-project
-Java Spring technology 
+Java Spring technology based client project.
